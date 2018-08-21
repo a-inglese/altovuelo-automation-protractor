@@ -1,0 +1,7 @@
+.idea/*
+.idea/
+/reports/
+.tern-project
+.protractor-failed
+node_modules
+.jshintrc
